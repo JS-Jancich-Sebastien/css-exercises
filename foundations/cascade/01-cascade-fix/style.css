@@ -2,7 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.para,
+p,
 .small-para {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
@@ -13,7 +13,7 @@ body {
   font-weight: 800;
 }
 
-.para {
+p {
   font-size: 22px;
 }
 
@@ -23,13 +23,13 @@ body {
   font-weight: bold;
 } 
 
-.button {
+button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
-.child {
+div.text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
